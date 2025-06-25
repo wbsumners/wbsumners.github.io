@@ -13,7 +13,7 @@ title                    : "Billy Sumners"
 title_separator          : "-"
 name                     : &name "Billy Sumners"
 description              : &description "MAC-MIGS PhD student at Heriot-Watt University (Maxwell Institute for Mathematical Sciences)"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://wbsumners.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wbsumners.github.io"
 
