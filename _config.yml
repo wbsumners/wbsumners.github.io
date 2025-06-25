@@ -7,29 +7,29 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en-GB"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Billy Sumners"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Billy Sumners"
+description              : &description "MAC-MIGS PhD student at Heriot-Watt University (Maxwell Institute for Mathematical Sciences)"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "wbsumners.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "profile.jpg"
+  name             : "Billy Sumners"
+  pronouns         : "He/Him"
+  bio              : "MAC-MIGS PhD Student at Heriot-Watt University. Studying microstructure of solids via Calculus of Variations, Gradient Flows, etc."
+  location         : "Edinburgh, Scotland"
+  employer         : "Heriot-Watt University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wb.sumners96@gmail.com" 
 
   # Academic websites
   academia         : # URL
