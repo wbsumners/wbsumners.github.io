@@ -9,13 +9,14 @@ redirect_from:
 
 I am a PhD student in mathematical analysis, under the [MAC-MIGS CDT programme](https://www.mac-migs.ac.uk/) run by the Maxwell Institute for Mathematical Sciences of the University of Edinburgh and Heriot-Watt University. My supervisor is [John Ball](https://people.maths.ox.ac.uk/ball/).
 
-My research interests are the calculus of variations, partial differential equations, and geometry broadly. In particular, I am interested in problems informed by the microstructure of complex materials, such as materials which exhibit martensitic phase transformations (e.g. shape-memory alloys). 
+My research interests are calculus of variations, partial differential equations, and geometry broadly. In particular, I'm interested in problems informed by the microstructure of complex materials, such as materials which exhibit martensitic phase transformations (e.g. shape-memory alloys). 
 
 Ongoing projects
 =======
 *Drafts available on request*
 - The Triplet Condition and Applications to Martensitic Phase Transformations
 - Applications of Evolutionary Variational Inequalities to 1D Viscoelasticity (joint work with [Alex Mielke](https://www.wias-berlin.de/people/mielke/?lang=1))
+- Torsion of Helicoidal Möbius Bands
 
 Publications
 =======
@@ -32,7 +33,7 @@ Experience
 
 Skills
 ======
-## Languages ## 
+### Languages ###
 English (native), Japanese (conversational)
-## Programming ## 
+### Programming ### 
 Python, Julia; some experience with Java, C#
