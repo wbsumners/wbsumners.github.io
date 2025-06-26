@@ -32,4 +32,7 @@ Experience
 
 Skills
 ======
-**Languages** English (native), Japanese (conversational)
+## Languages ## 
+English (native), Japanese (conversational)
+## Programming ## 
+Python, Julia; some experience with Java, C#
