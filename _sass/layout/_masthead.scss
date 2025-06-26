@@ -4,7 +4,7 @@
 
 .masthead {
   position: fixed;
-  background: var(--global-bg-color);
+  background: var(--global-masthead-bg-color);
   height: fit-content;
   top: 0;
   width: 100%;
@@ -55,13 +55,18 @@
 }
 
 .masthead__menu-item {
-  background-color: var(--global-bg-color);
+  // background-color: var(--global-masthead-bg-color);
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  font-size: 18pt;
 
   &--lg {
     padding-right: 2em;
-    font-weight: 700;
+    font-weight: 400;
+  }
+
+  .tail {
+    padding-left: 10em;
   }
 }
