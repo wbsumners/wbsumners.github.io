@@ -28,7 +28,7 @@
     @include container;
     @include clearfix;
     padding: 0.5em 1em;
-    font-family: $sans-serif-narrow;
+    font-family: "Raleway";
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -45,7 +45,6 @@
 }
 
 .masthead__menu {
-
   ul {
     margin: 0;
     padding: 0;
@@ -59,14 +58,15 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
-  font-size: 18pt;
+  font-size: 16pt;
 
   &--lg {
-    padding-right: 2em;
-    font-weight: 400;
+    padding-right: 4em;
+    font-weight: 600;
   }
 
   .tail {
     padding-left: 10em;
+    float: right;
   }
 }
