@@ -7,33 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in mathematical analysis, under the [MAC-MIGS CDT programme](https://www.mac-migs.ac.uk/) run by the Maxwell Institute for Mathematical Sciences of the University of Edinburgh and Heriot-Watt University. My supervisor is [John Ball](https://people.maths.ox.ac.uk/ball/).
+I am a PhD student in mathematical analysis, under the [MAC-MIGS CDT programme](https://www.mac-migs.ac.uk/) run by the Maxwell Institute for Mathematical Sciences of the University of Edinburgh and Heriot-Watt University. I am supervised by [John Ball](https://people.maths.ox.ac.uk/ball/).
 
-My research interests are calculus of variations, partial differential equations, and geometry broadly. In particular, I'm interested in problems informed by the microstructure of complex materials, such as materials which exhibit martensitic phase transformations (e.g. shape-memory alloys). 
+My interests are calculus of variations, geometric measure theory, and partial differential equations more broadly. In particular, I'm interested in problems informed by the microstructure of complex materials, such as those which exhibit martensitic phase transformations (shape-memory alloys for one).
 
-Ongoing projects
-=======
-*Drafts available on request*
-- The Triplet Condition and Applications to Martensitic Phase Transformations
-- Applications of Evolutionary Variational Inequalities to 1D Viscoelasticity (joint work with [Alex Mielke](https://www.wias-berlin.de/people/mielke/?lang=1))
-- Torsion of Helicoidal Möbius Bands
-
-Publications
-=======
-- *PhD thesis (in the oven)*
-
-Education
-=======
-- (2015-2019) Master of Mathematics _University of Warwick, Coventry, UK_
-- (2021-2025/26) PhD in Mathematical Modelling, Analysis and Computation _Heriot-Watt University (joint with University of Edinburgh), Edinburgh, UK_
-
-Experience
-=======
-- (2025, Jan-Mar) Research Intern _Okinawa Institute of Science and Technology, Onna, Okinawa, Japan_
-
-Skills
-======
-### Languages ###
-English (native), Japanese (conversational)
-### Programming ### 
-Python, Julia; some experience with Java, C#
+## Other things
+I'm conversational in Japanese, having studied it on and off since 2020 (and to a degree much earlier!). I like to spend time considering therapeutic topics about how and why I and the people around me think and behave the way we do, and why it's important that the decisions we make should be informed on the histories of ourselves and of others, not just on present circumstances. I also like birds and would like to take pictures of them if I had a suitable lens. For now, I take pictures of other things when the weather is good.

@@ -65,8 +65,7 @@
     font-weight: 600;
   }
 
-  .tail {
-    padding-left: 10em;
-    float: right;
+  &.persist.tail {
+    padding-left: 5em;
   }
 }
