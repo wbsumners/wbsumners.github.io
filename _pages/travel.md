@@ -37,7 +37,7 @@ title: "Travel"
 : July 2024
 : Poster presented "Triplets and Compatibility in Martensitic Phase Transitions"
 
-[MAC-MIGS-Amsterdam/Utrecht Workshop on Scientific Computation, Statistics and PDEs](https://www.mac-migs.ac.uk/events/mac-migs-amsterdam-utrecht-workshop/)
+[MAC-MIGS-Amsterdam/Utrecht Workshop on Scientific Computation, Statistics and PDEs](https://www.cwi.nl/nl/events/mac-migs-amsterdamutrecht-workshop-on-scientific-computation-statistics-and-pdes/)
 : Centrum Wiskunde & Informatica
 : Amsterdam 🇳🇱
 : September 2024
